@@ -15,7 +15,11 @@
         <section>
             <table>
                 <tr>
-                    <th>cd </th>
+                    <th>Company</th>
+                    <th>License use</th>
+                    <th>Status</th>
+                    <th>Users</th>
+                    <th>About</th>
                 </tr>
             </table>
         </section>
