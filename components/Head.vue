@@ -6,7 +6,7 @@
                 <div class="navimg"><img src="../assets/Logo.svg" alt=""></div>
                 <ul class="navlist">
                     <li>Home</li>
-                    <li>Dashboard</li>
+                    <li class="li-two">Dashboard</li>
                     <li>Projects</li>
                     <li>Tasks</li>
                     <li>Reporting</li>
@@ -22,6 +22,7 @@
                 </ul>
             </div>
         </nav>
+        <hr>
         <div class="nav-sect-2">
             <div>
                 <ul class="navlist2">
@@ -39,6 +40,7 @@
                     <input type="text" name="search" placeholder="Search">
                 </div>         
         </div>
+        <hr>
     </section>
     <section class="hero">
       <div class="hero-main">

@@ -4,13 +4,16 @@
 $defaults-fonts: 'Inter', sans-serif;
 $purple-shade: #7F56D9;
 $purple-shade2: #6941C6;
-$grey1: #344054;
+$grey1: #344054; 
 $grey2: #D0D5DD;
 $grey3: #667085;
 $grey4: #101828;
 $grey5: #EAECF0;
 $grey6: #F9F5FF;
+$grey7: #F9FAFB;
+$grey8: #F2F4F7;
 $green: #027A48;
+$sucessgreen: #ECFDF3;
 $red: #B42318;
 
 
@@ -19,4 +22,5 @@ body{
     margin: 0;
     font-family: $defaults-fonts;
     font-size: 16px;
+ 
 }
