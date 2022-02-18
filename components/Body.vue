@@ -12,7 +12,7 @@
                     <input type="text" name="search" placeholder="Search">
                 </div>         
         </section>
-        <section class="bod-mob">
+        <section class="bod-mob contain">
                <div class="eyecont">
                     <label for="search"></label>
                     <img src="../assets/search.svg" alt="search" id="eyeimg">
@@ -171,7 +171,7 @@
                     <td class="tdcell">
                         <input type="checkbox" checked/>
                          <span class="checkmark"></span>
-                        <img class="tdimg" src="../assets/Logo6.svg">&nbsp;
+                        <img class="tdimg" src="../assets/Logo6.svg">
                         <div><h4>Quotient</h4><legend>quotient.co</legend></div> 
                     </td>
                     <td><div class="progress">
@@ -227,7 +227,7 @@
                     <th><p>Page 1 of 10</p></th>
                 </tr>
             </table>
-            <div class="mob-pag">
+            <div class="mob-pag contain">
                 <img src="../assets/arrleft.svg" alt="">
                 <p>Page 1 of 10</p>
                 <img src="../assets/arriight.svg" alt="">

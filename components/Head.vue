@@ -1,6 +1,6 @@
 <template>
   <div class="container">
-    <section class="header">
+    <section class="header contain">
         <nav>
             <div class="nav-sect-1">
                 <div class="navimg"><img src="../assets/Logo.svg" alt=""></div>
@@ -44,7 +44,7 @@
         </div>
         <hr>
     </section>
-    <section class="hero">
+    <section class="hero contain">
       <div class="hero-main">
         <div>
           <h2>Welcome back, Olivia</h2>
