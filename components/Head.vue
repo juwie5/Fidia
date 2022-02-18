@@ -4,6 +4,7 @@
         <nav>
             <div class="nav-sect-1">
                 <div class="navimg"><img src="../assets/Logo.svg" alt=""></div>
+                
                 <ul class="navlist">
                     <li>Home</li>
                     <li class="li-two">Dashboard</li>
@@ -14,6 +15,7 @@
                 </ul>
             </div>
             <div>
+                <div class="mobnav"><img src="../assets/mobnav.svg" alt=""></div>
                 <ul class="navlist">
                     <li><a href="#" class="navbtn"><img src="../assets/Thunder.svg" alt="">Upgrade now</a></li>
                     <li><a href="#"><img src="../assets/wheel.svg"></a></li>
@@ -48,18 +50,18 @@
           <h2>Welcome back, Olivia</h2>
           <p>Track, manage and forecast your customers and orders.</p>
         </div>  
-        <div>
+        <div class="hero-btn">
             <button><img src="../assets/cloud.svg" alt="">Import</button>
             <button class="btn2"><img src="../assets/add.svg" alt="">Add</button>
         </div>
-      </div>
-      <div class="hero-sub">
+       </div>
+       <div class="hero-sub">
         <div class="hero-card">
           <h3>Total customers <img class="chart" src="../assets/thredots.svg" alt=""></h3>
           <p class="num">2,420</p>
           <p><span class="percent"><img src="../assets/arrowup.svg"> 40%</span> vs last month</p>
           <img class="chart pos" src="../assets/GreenChart.svg" alt="">
-      </div>   
+       </div>   
         <div class="hero-card">
           <h3>Members <img class="chart" src="../assets/thredots.svg" alt=""></h3>
           <p class="num">1,210</p>
