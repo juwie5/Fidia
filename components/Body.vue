@@ -33,9 +33,7 @@
                     <th>License use</th>
                     <th class="tab-off">Status</th>
                     <th class="tab-off" >Users</th>
-                    <th class="tab-off" >Users</th>
-                    <th class="tab-off">About</th>
-                    <th class="tab-off"></th>
+                    <th class="tab-off" >About</th>
                 </tr>
                 <tr>
                     <td class="tdcell">
